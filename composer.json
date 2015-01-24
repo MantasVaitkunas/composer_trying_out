@@ -1,0 +1,12 @@
+{
+  "name": "mantas.vaitkunas/composer_trying",
+  "description": "This package will be used only to try out composer packaging.",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mantas Vaitkūnas",
+      "email": "manvait@gmail.com"
+    }
+  ]
+}
